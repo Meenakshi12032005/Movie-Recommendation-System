@@ -23,5 +23,7 @@ This project helped me understand how real-world platforms like Netflix and Amaz
 
 👉 Next Step: Expanding the dataset and improving the UI with modern frontend tools.
 
+localhost: http://127.0.0.1:5000/
+
 I’d love to hear your feedback! 💬
 #MachineLearning #Python #Flask #RecommendationSystem #AI #LearningJourney
